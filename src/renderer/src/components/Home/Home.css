@@ -1,0 +1,16 @@
+#main-container {
+  min-width: calc(90% - 50px);
+}
+
+.home-day {
+  vertical-align: top;
+}
+
+.home-day p {
+  margin: 0;
+}
+
+.home-day p em {
+  display: block;
+  background-color: rgb(234, 235, 236);
+}
